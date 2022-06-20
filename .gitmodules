@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "automl"]
+	path = automl
+	url = https://github.com/aboulaboul/automl
+	shallow = true
+	registered = true
